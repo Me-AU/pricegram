@@ -4,3 +4,6 @@
 [submodule "submodules/pricegram-frontend"]
 	path = submodules/pricegram-frontend
 	url = https://github.com/geetu040/pricegram-frontend
+[submodule "submodules/pricegram_search"]
+	path = submodules/pricegram_search
+	url = https://github.com/geetu040/pricegram_search
