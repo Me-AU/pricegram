@@ -1,0 +1,3 @@
+[submodule "submodules/pricegram-crawler"]
+	path = submodules/pricegram-crawler
+	url = https://github.com/Muhammad-AB/pricegram-crawler
