@@ -1,3 +1,6 @@
 [submodule "submodules/pricegram-crawler"]
 	path = submodules/pricegram-crawler
 	url = https://github.com/Muhammad-AB/pricegram-crawler
+[submodule "submodules/pricegram-frontend"]
+	path = submodules/pricegram-frontend
+	url = https://github.com/geetu040/pricegram-frontend
