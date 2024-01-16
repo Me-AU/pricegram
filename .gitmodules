@@ -7,3 +7,6 @@
 [submodule "submodules/pricegram_search"]
 	path = submodules/pricegram_search
 	url = https://github.com/geetu040/pricegram_search
+[submodule "submodules/pricegram-backend"]
+	path = submodules/pricegram-backend
+	url = https://github.com/TaimoorIkram/pricegram-backend
